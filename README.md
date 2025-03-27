@@ -19,6 +19,7 @@ Identify the highest-spending customer.
 # Database and Tools
 
 Postgre SQL
+
 PgAdmin4
 
 # Dataset
